@@ -1,4 +1,4 @@
 module.exports = {
     outputDir: 'dist',
-    publicPath: '/'
+    publicPath: '/RadishBear-Site2.0/'
 }
