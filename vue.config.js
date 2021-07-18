@@ -1,4 +1,5 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === "production" ? "/vue-running" : "/",
+    outputDir: 'dist',
+    publicPath: process.env.NODE_ENV === "production" ? "/radish-bear-site" : "/",
     publicPath: "./",
 }
